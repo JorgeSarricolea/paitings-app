@@ -5,7 +5,7 @@ from PIL import Image, ImageTk # type: ignore
 class MainWindow:
     def __init__(self, master):
         self.master = master
-        self.master.title("7SB_Equipo#_Sarricolea_Cañas_Toache")
+        self.master.title("7SB_Equipo#3_Sarricolea_Cañas_Vazquez_Toache")
         self.master.configure(bg='light green')
 
         # Center the window
